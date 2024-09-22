@@ -28,5 +28,5 @@ I am Entong He. I am a year-4 undergraduate student at the University of Hong Ko
 - **MATH3911** Game theory and strategy.
 - **MATH4902** Operations research II.
 - **STAT4610** Bayesian learning.
-- **STAT7610** Advanced probability (measure-theory based).
-Now trying to understand Ji, Natarajan, Vidick, Wright and Yuen's result $\text{MIP}^* = \text{RE}$.
+- **STAT7610** Advanced probability (measure-theory based). \
+Now trying to understand Ji, Natarajan, Vidick, Wright and Yuen's result MIP*=RE.
