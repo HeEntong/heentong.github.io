@@ -5,7 +5,7 @@
 
 {% for link in site.data.publications.main %}
 
-<li style="margin-bottom: 2.5px;">
+<li style="margin-bottom: 1px, padding: 3px 0;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
