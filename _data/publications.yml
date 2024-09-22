@@ -4,7 +4,7 @@ main:
     authors: <strong>Entong He</strong>
     conference_short: arXiv
     conference: arXiv preprint.
-    pdf: https://arxiv.org/pdf/2408.10114.pdf
+    pdf: https://arxiv.org/pdf/2408.10114
 
   - title: "QuERLoc: Towards Next-Generation Localization with Quantum-Enhanced Ranging"
     authors: <strong>Entong He</strong>, Yuxiang Yang, Chenshu Wu
