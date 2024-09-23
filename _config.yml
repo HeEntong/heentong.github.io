@@ -6,9 +6,9 @@ email: entong_he@connect.hku.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: entong he
+description: undergraduate computer science student at HKU
+canonical: https://github.com/HeEntong
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -19,7 +19,7 @@ github_link: https://github.com/HeEntong
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/favicon_dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
