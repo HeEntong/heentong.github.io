@@ -10,6 +10,7 @@ I am Entong He. I am a year-4 undergraduate student at the University of Hong Ko
 - **Network and Sensing:** sensor network localization, wireless sensing.
 
 ## News
+- **[Sep. 2024]** Invited as a reviewer for ICASSP 2025.
 - **[May. - Aug. 2024]** Joined uOttawa QUASAR group as a Mitacs GRI 2024 participant focusing on non-local games and multi-interactive proof. Under the supervision of Dr. Connor Paddock and Prof. Anne Broadbent. See https://quasarlab.org/news/special-quasar-seminar-2024/ for details.
 - **[Apr. 2024]** A refined variant of quantum-enhanced localization is developed during my exchange @ NUS School of Computing. Manuscript submitted to INFOCOM 2025.
 - **[Dec. 2023]** Quantum Ranging Enhanced TDoA Localization was accepted by ICASSP 2024.
@@ -30,7 +31,7 @@ I am Entong He. I am a year-4 undergraduate student at the University of Hong Ko
 - **MATH4902** Operations research II.
 - **STAT4610** Bayesian learning.
 - **STAT7610** Advanced probability (measure-theory based). \
-Now trying to understand Ji, Natarajan, Vidick, Wright and Yuen's result MIP*=RE.
+Now trying to learn the proof techniques in Ji, Natarajan, Vidick, Wright and Yuen's result MIP*=RE and a prior result NEEXP in MIP* by Natarajan and Wright.
 
 ## CV of Failure 
 Although my life has witnessed minor events of success, failure is inevitably the major theme of it. In the private discussion with my college mate Shunzhuang Huang (also a high school upperclassman, now a PhD candidate @ UChicago Booth), I realized that it is rather significant to memorize these failures so as not to be scammed by some insignificant success. Hope that this rapidly-growing document will be a kick on my backside. \
