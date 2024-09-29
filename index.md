@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am Entong He. I am a year-4 undergraduate student at the University of Hong Kong (HKU) pursuing a bachelor's degree in engineering with a major in computer science.
+I am Entong He. I am a year-4 undergraduate student at The University of Hong Kong (HKU) pursuing a bachelor's degree in engineering with a major in computer science.
 
 ## (Research) Interests
 
