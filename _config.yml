@@ -2,17 +2,17 @@
 title: Entong He
 position: Undergrduate Student
 affiliation: The University of Hong Kong
-email: entong_he@connect.hku.hk
+email: <entong_he@connect.hku.hk>
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: entong he
-description: Undergraduate computer science student at HKU
+description: Computer science undergraduate at HKU
 canonical: https://github.com/HeEntong
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/CV.pdf
+cv_link: assets/files/CV_Entong_HE.pdf
 github_link: https://github.com/HeEntong
 
 # Images (e.g., your profile picture and your website's favicon) 
