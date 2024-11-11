@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-I am Entong He. I am a year-4 undergraduate student at The University of Hong Kong (HKU) pursuing a bachelor's degree in engineering with a major in computer science. During my previous years I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/) at uOttawa.
+I am Entong He. I am a year-4 undergraduate student at The University of Hong Kong (HKU) pursuing a bachelor's degree in engineering with a major in computer science. During my previous years I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/) (QUASAR) at uOttawa.
 
 ## (Research) Interests
 
-- **Quantum Information:** quantum analogs of classical complexity classes (recently introduced to this field), non-local games, quantum sensing.
+- **Quantum Information:** quantum analogs of classical complexity classes (recently introduced to this field), non-local games, quantum learning, quantum sensing.
 - **Network and Sensing:** sensor network localization, wireless sensing.
 
 ## News
