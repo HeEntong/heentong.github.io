@@ -40,8 +40,10 @@ See **[CV of Failure](assets/files/Failure_CV.pdf)** for details.
 ## Friends
 I want to express my heartfelt gratitude to my friends who have been supporting me and conducting excellent research. Links to their personal websites are listed below (alphabetical order).
 - [Yuxuan Chen](https://dennis-yxchen.github.io/)
+- [Zheyu Fan](https://lorduky.github.io/)
 - [Bennett Hon](https://www.linkedin.com/in/bennett-hon/)
 - [Shunzhuang Huang](https://szhuang1.github.io/)
 - [Jianche Liu](https://www.linkedin.com/in/jianche-liu-4b6297266/)
 - [Yaowen Ye](https://helloelwin.github.io/)
+- [Yuemin Yu](https://yuyueminaustin.github.io/)
 - [Boyang Zheng](https://www.boyangzheng.com/academica/)
