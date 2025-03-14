@@ -20,7 +20,7 @@ I am Entong He. I am a final-year undergraduate at the University of Hong Kong (
 
 {% include_relative _includes/publications.md %}
 
-## Coursework (representative advanced courses, all with A/A+ grades.)
+## Coursework (representative advanced courses, all with A/A+ grades)
 - **COMP3230** Principles of operating system.
 - **COMP3252** Algorithm design and analysis (advanced subclass).
 - **COMP3314** Machine learning.
