@@ -9,7 +9,7 @@ main:
   - title: "QuERLoc: Towards Next-Generation Localization with Quantum-Enhanced Ranging"
     authors: <strong>Entong He</strong>, Yuxiang Yang, Chenshu Wu
     conference_short: arXiv
-    conference: arXiv preprint, under review for INFOCOM 2025.
+    conference: arXiv preprint, under review.
     pdf: https://www.arxiv.org/pdf/2404.16895
 
   - title: "Quantum Ranging Enhanced TDoA Localization"
