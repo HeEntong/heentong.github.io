@@ -6,11 +6,12 @@ I am Entong He. I am a final-year undergraduate at the University of Hong Kong (
 
 ## (Research) Interests
 
-- **Quantum Information:** quantum tomography, quantum complexity theory (recently introduced to this field).
+- **Quantum Information:** quantum information theory, quantum complexity theory.
 - **Networking:** sensor network localization.
 
 ## News
-- **[Mar. 2025]** I am joining [QICI](https://qici.weebly.com/), HKU CDS as a PhD student in Fall 2025. I will be working with Prof. [Yuxiang Yang](https://yangyx09.github.io/).
+- **[June. 2025]** I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, I will be advised by Prof. [Penghui Yao](https://penghuiyao.info/) and working on selected topics in quantum complexity theory.
+- **[Mar. 2025]** I am joining [QICI](https://qici.weebly.com/), HKU CDS as a PhD student in Fall 2025. I will be working with Prof. [Yuxiang Yang](https://yangyx09.github.io/). (I acknowledge the financial support concurrently from HKUPS and HKPFS)
 - **[May. - Aug. 2024]** I joined uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games and multi-interactive proof, advised by Prof. Anne Broadbent and Dr. Connor Paddock. See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
 - **[Apr. 2024]** I developed a refined variant of quantum-enhanced localization during my exchange at [NUS School of Computing](https://www.comp.nus.edu.sg/). Manuscript submitted to INFOCOM 2025.
 - **[Dec. 2023]** Quantum Ranging Enhanced TDoA Localization is accepted by ICASSP 2024.
