@@ -1,6 +1,6 @@
 main:
   - title: "Resource quantification for programming low-depth quantum circuits"
-    authors: <strong>Entong He, Yuxiang Yang </strong>
+    authors: <strong>Entong He</strong>, Yuxiang Yang
     conference_short: arXiv
     conference: arXiv preprint.
     pdf: https://arxiv.org/pdf/2509.09642v1
