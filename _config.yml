@@ -1,18 +1,17 @@
 # Basic Information 
 title: Entong He
-position: Undergrduate Student
 affiliation: The University of Hong Kong
 email: entong_he@connect.hku.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: entong he
-description: Computer science undergraduate at HKU
+description: Computer science student at The University of Hong Kong
 canonical: https://github.com/HeEntong
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/CV_Entong_HE.pdf
+# cv_link: assets/files/CV_Entong_HE.pdf
 github_link: https://github.com/HeEntong
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -27,7 +26,7 @@ enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.

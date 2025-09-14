@@ -1,4 +1,9 @@
 main:
+  - title: "Resource quantification for programming low-depth quantum circuits"
+    authors: <strong>Entong He, Yuxiang Yang </strong>
+    conference_short: arXiv
+    conference: arXiv preprint.
+    pdf: https://arxiv.org/pdf/2509.09642v1
 
   - title: "Topics in Non-local Games: Synchronous Algebras, Algebraic Graph Identities, and Quantum NP-hardness Reductions"
     authors: <strong>Entong He</strong>

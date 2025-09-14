@@ -2,7 +2,9 @@
 layout: homepage
 ---
 
-I am Entong He. I am a final-year undergraduate at the University of Hong Kong (HKU) pursuing a bachelor's degree in engineering with a major in computer science. I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/) (QUASAR) at uOttawa; Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU).
+I am Entong He. I am a first-year PhD student at HKU CDS, advised by Prof. [Yuxiang Yang](https://yangyx09.github.io/) and Prof. [Chenshu Wu](https://cswu.me/). 
+
+During my past years, I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/) (QUASAR) at uOttawa; Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU).
 
 ## (Research) Interests
 
@@ -20,7 +22,7 @@ I am Entong He. I am a final-year undergraduate at the University of Hong Kong (
 
 {% include_relative _includes/publications.md %}
 
-## Coursework (representative advanced courses, all with A/A+ grades)
+<!-- ## Coursework (representative advanced courses, all with A/A+ grades)
 - **COMP3230** Principles of operating system.
 - **COMP3252** Algorithm design and analysis (advanced subclass).
 - **COMP3314** Machine learning.
@@ -32,7 +34,7 @@ I am Entong He. I am a final-year undergraduate at the University of Hong Kong (
 - **MATH3911** Game theory and strategy.
 - **MATH4902** Operations research II.
 - **STAT4610** Bayesian learning.
-- **STAT7610** Advanced probability (measure-theoretic). 
+- **STAT7610** Advanced probability (measure-theoretic).  -->
 
 <!-- ## CV of Failure 
 Although my life has witnessed minor events of success, failure is inevitably the major theme of it. In the private discussion with my college mate Shunzhuang Huang (also a high school upperclassman, now a PhD candidate @ UChicago Booth), I realized that it is rather significant to memorize these failures so as not to be scammed by some insignificant success. Hope that this rapidly-growing document will be a kick on my backside. \
