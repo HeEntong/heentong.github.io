@@ -4,7 +4,7 @@ layout: homepage
 
 I am Entong He. I am a first-year PhD student at HKU CDS, advised by Prof. [Yuxiang Yang](https://yangyx09.github.io/) and Prof. [Chenshu Wu](https://cswu.me/). 
 
-During my past years, I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/) (QUASAR) at uOttawa; Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU) at Nanjing University.
+During my undergraduate years, I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) (QUASAR) and Prof. [Connor Paddock](https://www.connorpaddock.page/) (U. Calgary) at uOttawa; Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU) at Nanjing University.
 
 ## Interests
 
