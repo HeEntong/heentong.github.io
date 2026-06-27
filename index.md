@@ -12,7 +12,7 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 - **Networking:** sensor network localization.
 
 ## Experience
-- **[June. 2025]** I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, I will be advised by Prof. [Penghui Yao](https://penghuiyao.info/) and working on complexity of state synthesis problems.
+- **[June. 2025]** I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, hosted by Prof. [Penghui Yao](https://penghuiyao.info/) and working on complexity of state synthesis problems.
 <!-- - **[Mar. 2025]** I am joining [QICI](https://qici.weebly.com/), HKU CDS as a PhD student in Fall 2025. I will be working with Prof. [Yuxiang Yang](https://yangyx09.github.io/). -->
 - **[May. - Aug. 2024]** I joined uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games, advised by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/). See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
 <!-- - **[Dec. 2023]** Quantum Ranging Enhanced TDoA Localization is accepted by ICASSP 2024. -->
@@ -40,7 +40,10 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 Although my life has witnessed minor events of success, failure is inevitably the major theme of it. In the private discussion with my college mate Shunzhuang Huang (also a high school upperclassman, now a PhD candidate @ UChicago Booth), I realized that it is rather significant to memorize these failures so as not to be scammed by some insignificant success. Hope that this rapidly-growing document will be a kick on my backside. \
 See **[CV of Failure](assets/files/Failure_CV.pdf)** for details. -->
 
-## Friends
+## Teaching
+
+
+## Miscs
 I want to express my heartfelt gratitude to my friends who have been supporting me and conducting excellent research. Links to their personal websites are listed below (alphabetical order).
 - [Yuxuan Chen](https://dennis-yxchen.github.io/)
 - [Zheyu Fan](https://lorduky.github.io/)

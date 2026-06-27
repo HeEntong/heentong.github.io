@@ -2,13 +2,13 @@ main:
   - title: "Optimal classical shadow estimation of unitary channels at Heisenberg limit"
     authors: <strong>Entong He*</strong>, Zihao Li*, Noam Scully, Sisi Zhou, Yuxiang Yang
     conference_short: arXiv
-    conference: arXiv preprint
+    conference: <i>arXiv</i> preprint
     pdf: https://arxiv.org/pdf/2606.13638
 
   - title: "Resource quantification for programming low-depth quantum circuits"
     authors: <strong>Entong He</strong>, Yuxiang Yang
     conference_short: arXiv
-    conference: arXiv preprint, under review at Quantum
+    conference: to appear at <i>Quantum</i>
     pdf: https://arxiv.org/pdf/2509.09642
 
   - title: "Topics in Non-local Games: Synchronous Algebras, Algebraic Graph Identities, and Quantum NP-hardness Reductions"
@@ -20,11 +20,11 @@ main:
   - title: "QuERLoc: Towards Next-Generation Localization with Quantum-Enhanced Ranging"
     authors: <strong>Entong He</strong>, Yuxiang Yang, Chenshu Wu
     conference_short: arXiv
-    conference: to appear at IEEE Journal on Selected Areas in Communications (Quantum Series)
+    conference: to appear at <i>IEEE Journal on Selected Areas in Communications (Quantum Series)</i>
     pdf: https://arxiv.org/pdf/2404.16895
 
   - title: "Quantum Ranging Enhanced TDoA Localization"
     authors: <strong>Entong He</strong>, Yuxiang Yang, Chenshu Wu*
     conference_short: ICASSP 2024
-    conference: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing
+    conference: <i>2024 IEEE International Conference on Acoustics, Speech and Signal Processing</i>
     pdf: https://ieeexplore.ieee.org/document/10446684
