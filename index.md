@@ -2,19 +2,19 @@
 layout: homepage
 ---
 
-I am Entong He. I am a first-year PhD student at HKU CDS, advised by Prof. [Yuxiang Yang](https://yangyx09.github.io/) and Prof. [Chenshu Wu](https://cswu.me/). 
+I am Entong He. I am a ~~first-year~~ second-year PhD student at HKU CDS, advised by Prof. [Yuxiang Yang](https://yangyx09.github.io/) and Prof. [Chenshu Wu](https://cswu.me/). 
 
 During my undergraduate years, I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) (QUASAR) and Prof. [Connor Paddock](https://www.connorpaddock.page/) (U. Calgary) at uOttawa; Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU) at Nanjing University.
 
 ## Interests
 
-- **Quantum Information:** <u>quantum information theory</u>, quantum complexity theory.
-- **Networking:** sensor network localization.
+- **Quantum:** <u>quantum information theory</u>, quantum complexity theory.
+- **Classical:** sensor network localization.
 
-## Experience
+## News
 - **[June. 2025]** I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, hosted by Prof. [Penghui Yao](https://penghuiyao.info/) and working on complexity of state synthesis problems.
 <!-- - **[Mar. 2025]** I am joining [QICI](https://qici.weebly.com/), HKU CDS as a PhD student in Fall 2025. I will be working with Prof. [Yuxiang Yang](https://yangyx09.github.io/). -->
-- **[May. - Aug. 2024]** I joined uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games, advised by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/). See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
+- **[May. - Aug. 2024]** I am visiting uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games, hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/). See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
 <!-- - **[Dec. 2023]** Quantum Ranging Enhanced TDoA Localization is accepted by ICASSP 2024. -->
 <!-- - **[Aug. 2023]** I was awarded a conditional offer of the HKU Presidential PhD Scholarship ([HKUPS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)) by HKU Graduate School. Credits to my supervisors. -->
 - **[May. - Aug. 2023]** I joined HKU [AIoT Lab](https://aiot.hku.hk/) as a HKU Summer Research Programme 2023 participant focusing on sensor localization with quantum sensing, advised by Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/).
@@ -40,10 +40,8 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 Although my life has witnessed minor events of success, failure is inevitably the major theme of it. In the private discussion with my college mate Shunzhuang Huang (also a high school upperclassman, now a PhD candidate @ UChicago Booth), I realized that it is rather significant to memorize these failures so as not to be scammed by some insignificant success. Hope that this rapidly-growing document will be a kick on my backside. \
 See **[CV of Failure](assets/files/Failure_CV.pdf)** for details. -->
 
-## Teaching
 
-
-## Miscs
+<!--## Miscs
 I want to express my heartfelt gratitude to my friends who have been supporting me and conducting excellent research. Links to their personal websites are listed below (alphabetical order).
 - [Yuxuan Chen](https://dennis-yxchen.github.io/)
 - [Zheyu Fan](https://lorduky.github.io/)
@@ -53,6 +51,4 @@ I want to express my heartfelt gratitude to my friends who have been supporting 
 - [Yaowen Ye](https://helloelwin.github.io/)
 - [Yuemin Yu](https://yuyueminaustin.github.io/)
 - [Boyang Zheng](https://www.boyangzheng.com/academica/)
-
-<!-- ### Miscs: Acknowledgments of my undergraduate thesis
-![ThesisIntro](ThesisAck.png) -->
+-->

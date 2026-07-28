@@ -1,7 +1,7 @@
 # Basic Information 
 title: Entong He
-affiliation: The University of Hong Kong
-email: entong_he@connect.hku.hk
+affiliation: School of Computing and Data Science, The University of Hong Kong
+email: entong_he@connect.hku.hk / ethe@cs.hku.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -26,11 +26,11 @@ enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
