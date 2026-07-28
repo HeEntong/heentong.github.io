@@ -6,7 +6,7 @@ main:
 
   - title: "Resource quantification for programming low-depth quantum circuits"
     authors: <strong>Entong He</strong>, Yuxiang Yang
-    conference_short: arXiv
+    conference_short: Quantum
     conference: <i>Quantum</i>
 
   - title: "Topics in Non-local Games: Synchronous Algebras, Algebraic Graph Identities, and Quantum NP-hardness Reductions"
@@ -16,7 +16,7 @@ main:
 
   - title: "QuERLoc: Towards Next-Generation Localization with Quantum-Enhanced Ranging"
     authors: <strong>Entong He</strong>, Yuxiang Yang, Chenshu Wu
-    conference_short: arXiv
+    conference_short: JSAC
     conference: to appear at <i>IEEE Journal on Selected Areas in Communications (Quantum Series)</i>
 
   - title: "Quantum Ranging Enhanced TDoA Localization"
