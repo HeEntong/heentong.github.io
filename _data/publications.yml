@@ -20,7 +20,7 @@ main:
   - title: "QuERLoc: Towards Next-Generation Localization with Quantum-Enhanced Ranging"
     authors: <strong>Entong He</strong>, Yuxiang Yang, Chenshu Wu
     conference_short: JSAC
-    conference: IEEE Journal on Selected Areas in Communications (Quantum Series), to appear
+    conference: to appear in IEEE Journal on Selected Areas in Communications (Quantum Series)
     pdf: https://arxiv.org/abs/2404.16895
 
   - title: "Quantum Ranging Enhanced TDoA Localization"
