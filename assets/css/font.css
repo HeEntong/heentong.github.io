@@ -9,3 +9,14 @@ body {
   font-weight:400;
   margin:0
 }
+
+.email-address {
+  display: inline-block;
+  font-family: "Ubuntu Mono", ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.76rem;
+  font-variant-ligatures: none;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.4;
+  white-space: nowrap;
+}
