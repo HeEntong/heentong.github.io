@@ -50,11 +50,18 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a class="affiliation" href="{{ site.affiliation_link }}" rel="noopener"><autocolor>
+          {% if site.affiliation_line_1 and site.affiliation_line_2 %}
+          <span class="affiliation-line">{{ site.affiliation_line_1 }}</span>
+          <span class="affiliation-line">{{ site.affiliation_line_2 }}</span>
+          {% else %}
+          {{ site.affiliation }}
+          {% endif %}
+        </autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email class="email-address">{{ site.email }}</email>
         {% endif %}
 
         <br>
@@ -104,9 +111,6 @@
       {% endif %}
 
       </section>
-      <footer>
-        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Z6K36MbC6J4wwI-0jMmm-81aWYf7sPADgi_eQptrq7o&cl=ffffff&w=a"></script>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

@@ -82,8 +82,21 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
-    font-family: "Ubuntu Mono";
+  display: inline-block;
+  font-family: "Ubuntu Mono";
+  font-size: 0.76rem;
+  white-space: nowrap;
+}
+
+.affiliation {
+  display: inline-block;
+  font-size: 0.86rem;
+  line-height: 1.35;
+}
+
+.affiliation-line {
+  display: block;
+  white-space: nowrap;
 }
 
 .icon-button i{
@@ -194,18 +207,25 @@ h1 {
 }
 
 h2 {
-  color:#043361;
-  font-weight: 500;
-  margin:2px 0px 15px;
-  font-size: 157%;
+  color:#303030;
+  font-size:2.25rem;
+  font-variant-caps:all-small-caps;
+  font-weight:300;
+  letter-spacing:0.055em;
+  line-height:1;
+  margin:1.5rem 0 1rem;
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h1, h3 {
   line-height:1.1;
+}
+
+section ul {
+  list-style-type:square;
 }
 
 h1 {
@@ -213,12 +233,12 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#0b3558;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#061f35;
 }
 
 a small {
