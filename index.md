@@ -18,7 +18,7 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 <!-- - **[Dec. 2023]** Quantum Ranging Enhanced TDoA Localization is accepted by ICASSP 2024. -->
 <!-- - **[Aug. 2023]** I was awarded a conditional offer of the HKU Presidential PhD Scholarship ([HKUPS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)) by HKU Graduate School. Credits to my supervisors. -->
 - **[May. - Aug. 2023]** I join HKU [AIoT Lab](https://aiot.hku.hk/) as a HKU Summer Research Programme 2023 participant, focusing on sensor localization with quantum sensing. I am advised by Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/).
-- **[Jul. 2022]** I am working at CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant on stocking management with proactive resource allocation scheme. I am advised by Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/).
+- **[Jul. 2022]** I am working at CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant on stock management with proactive resource allocation. I am advised by Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/).
 
 {% include_relative _includes/publications.md %}
 
