@@ -43,7 +43,7 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1 class="site-name">{{ site.title }}{% if site.name_zh %}<span class="site-name-zh" lang="zh-Hans">（{{ site.name_zh }}）</span>{% endif %}</h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>

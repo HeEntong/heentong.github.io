@@ -22,6 +22,9 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 
 {% include_relative _includes/publications.md %}
 
+<!-- ## Talks
+- **[Sep. 23rd, 2026]** The shadow of reversible quantum processes. Invited talk at the Perimeter Institute seminar series. -->
+
 <!-- ## Coursework (representative advanced courses, all with A/A+ grades)
 - **COMP3230** Principles of operating system.
 - **COMP3252** Algorithm design and analysis (advanced subclass).
