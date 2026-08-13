@@ -1,6 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap");
 
+@font-face {
+  font-family: "Ma Shan Zheng Local";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/ma-shan-zheng-name.woff2") format("woff2");
+  unicode-range: U+4F55, U+6069, U+6850, U+FF08-FF09;
+}
+
 body {
   background-color: #fff;
   color: #595959;
