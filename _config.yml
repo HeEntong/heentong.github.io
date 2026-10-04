@@ -4,7 +4,9 @@ name_zh: 何恩桐
 affiliation: School of Computing and Data Science, The University of Hong Kong
 affiliation_line_1: School of Computing and Data Science,
 affiliation_line_2: The University of Hong Kong
-email: entong_he@connect.hku.hk / ethe@cs.hku.hk
+emails:
+  - entong_he@connect.hku.hk
+  - ethe@cs.hku.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -16,6 +18,7 @@ canonical: https://github.com/HeEntong
 # If you don't need one of them, you may delete the corresponding line.
 # cv_link: assets/files/CV_Entong_HE.pdf
 github_link: https://github.com/HeEntong
+google_scholar: https://scholar.google.com/citations?user=e1kr4H1sBAEC&hl=en
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

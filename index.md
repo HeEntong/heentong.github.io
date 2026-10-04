@@ -8,19 +8,25 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 
 ## Interests
 
-- **Quantum:** <u>quantum information theory</u>, quantum complexity theory.
-- **Classical:** sensor network localization.
+- <strong class="interest-label">Quantum:</strong> <u>quantum information theory</u>, quantum complexity theory.
+- <strong class="interest-label">Classical:</strong> sensor network localization.
 
 ## News
-- **[June. 2025]** I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, hosted by Prof. [Penghui Yao](https://penghuiyao.info/) and working on complexity of state synthesis problems.
-<!-- - **[Mar. 2025]** I am joining [QICI](https://qici.weebly.com/), HKU CDS as a PhD student in Fall 2025. I will be working with Prof. [Yuxiang Yang](https://yangyx09.github.io/). -->
-- **[May. - Aug. 2024]** I am visiting uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games, hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/). See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
-<!-- - **[Dec. 2023]** Quantum Ranging Enhanced TDoA Localization is accepted by ICASSP 2024. -->
-<!-- - **[Aug. 2023]** I was awarded a conditional offer of the HKU Presidential PhD Scholarship ([HKUPS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)) by HKU Graduate School. Credits to my supervisors. -->
-- **[May. - Aug. 2023]** I join HKU [AIoT Lab](https://aiot.hku.hk/) as a HKU Summer Research Programme 2023 participant, focusing on sensor localization with quantum sensing. I am advised by Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/).
-- **[Jul. 2022]** I am working at CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant on stock management with proactive resource allocation. I am advised by Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/).
+- <strong class="news-date">[June. 2025]</strong> I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, hosted by Prof. [Penghui Yao](https://penghuiyao.info/) and working on complexity of state synthesis problems.
+- <strong class="news-date">[May. - Aug. 2024]</strong> I am visiting uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games, hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/). See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
+- <strong class="news-date">[May. - Aug. 2023]</strong> I join HKU [AIoT Lab](https://aiot.hku.hk/) as a HKU Summer Research Programme 2023 participant, focusing on sensor localization with quantum sensing. I am advised by Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/).
+- <strong class="news-date">[Jul. 2022]</strong> I am working at CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant on stock management with proactive resource allocation. I am advised by Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/).
 
 {% include_relative _includes/publications.md %}
+
+## Academic service
+
+<dl class="academic-service">
+  <dt>Reviewer:</dt>
+  <dd>TQC ’26, AQIS ’25, ACM TQC, IEEE JSAC, IEEE ICASSP ’24, ’25.</dd>
+  <dt>Teaching assistant:</dt>
+  <dd>COMP3366: Quantum algorithms and computer architecture<span class="service-years">2025–26, 2026–27</span></dd>
+</dl>
 
 <!-- ## Talks
 - **[Sep. 23rd, 2026]** The shadow of reversible quantum processes. Invited talk at the Perimeter Institute seminar series. -->

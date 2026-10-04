@@ -1,4 +1,4 @@
-<h2 id="publications" class="publications-heading">Publications and preprints</h2>
+<h2 id="publications" class="publications-heading">Selected publications and preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,8 +7,8 @@
 
 <li class="publication-item">
   <div class="publication-title">
-    {% if publication.pdf %}
-    <a href="{{ publication.pdf }}">{{ publication.title }}</a>
+    {% if publication.link %}
+    <a href="{{ publication.link }}">{{ publication.title }}</a>
     {% else %}
     {{ publication.title }}
     {% endif %}

@@ -1,6 +1,6 @@
 :root {
-  --publication-link-color: #0b3558;
-  --publication-link-hover-color: #061f35;
+  --publication-link-color: #224b73;
+  --publication-link-hover-color: #163957;
   --publication-text-color: #303030;
   --publication-muted-color: #4d4d4d;
 }
@@ -83,6 +83,12 @@
   line-height: 1.4;
   margin-top: 0.08rem;
   padding-left: 1.6rem;
+}
+
+@media screen and (min-width: 1141px) {
+  #publications.publications-heading {
+    white-space: nowrap;
+  }
 }
 
 @media print, screen and (max-width: 480px) {

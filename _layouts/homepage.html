@@ -62,19 +62,20 @@
         </autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <span class="email-address">{{ site.email }}</span>
+        {% if site.emails %}
+        <div class="email-contact">
+          <strong class="email-label">Email:</strong>
+          <div class="email-addresses">
+            {% for email in site.emails %}
+            <span class="email-address">{{ email | replace: '@', ' [at] ' | replace: '.', ' [dot] ' }}</span>
+            {% endfor %}
+          </div>
+        </div>
         {% endif %}
 
         <br>
         <br>
         <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
@@ -82,8 +83,14 @@
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" aria-label="GitHub">
+          <i class="fab fa-github" aria-hidden="true"></i>
+        </a>
+        {% endif %}
+
+        {% if site.google_scholar %}
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}" aria-label="Google Scholar">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem" aria-hidden="true"></i>
         </a>
         {% endif %}
 

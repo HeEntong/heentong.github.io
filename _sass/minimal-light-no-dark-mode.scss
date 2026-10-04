@@ -92,6 +92,27 @@
   white-space: nowrap;
 }
 
+.email-contact {
+  display: inline-grid;
+  grid-template-columns: max-content max-content;
+  align-items: start;
+  column-gap: 0.45em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.76rem;
+  line-height: 1.4;
+  margin-top: 0.65rem;
+  text-align: left;
+}
+
+.email-label {
+  font-weight: 700;
+}
+
+.email-addresses {
+  display: grid;
+  row-gap: 0.2em;
+}
+
 .icon-button i{
   background:none;
   color:white;
@@ -240,12 +261,12 @@ h1 {
 }
 
 a {
-  color:#0b3558;
+  color:#224b73;
   text-decoration:none;
 }
 
 a:hover {
-  color:#061f35;
+  color:#163957;
 }
 
 a small {
@@ -260,7 +281,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1040px;
   margin:0 auto;
 }
 
@@ -310,7 +331,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:280px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -368,6 +389,42 @@ strong {
   font-weight:500;
 }
 
+.news-date, .interest-label {
+  font-weight:700;
+}
+
+.academic-service {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: 1.25rem;
+  row-gap: 1rem;
+}
+
+.academic-service dt {
+  color: inherit;
+  font-weight: 700;
+}
+
+.academic-service dd {
+  margin: 0;
+}
+
+.academic-service .service-years {
+  display: block;
+  margin-top: 0.12rem;
+}
+
+@media screen and (max-width: 480px) {
+  .academic-service {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0.35rem;
+  }
+
+  .academic-service dd + dt {
+    margin-top: 0.65rem;
+  }
+}
+
 header ul li + li + li {
   border-right:none;
   width:89px;
@@ -380,7 +437,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:700px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -398,7 +455,7 @@ hr {
 }
 
 footer {
-  width:232px;
+  width:280px;
   float:left;
   position:fixed;
   bottom:30px;
@@ -406,7 +463,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1140px) {
 
   .pub-row {
   display: flex; 
@@ -461,7 +518,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1140px) {
   body {
     word-wrap:break-word;
     padding:15px;
