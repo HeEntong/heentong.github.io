@@ -12,10 +12,10 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 - <strong class="interest-label">Classical:</strong> sensor network localization.
 
 ## News
-- <strong class="news-date">[June. 2025]</strong> I am visiting [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern, hosted by Prof. [Penghui Yao](https://penghuiyao.info/) and working on complexity of state synthesis problems.
-- <strong class="news-date">[May. - Aug. 2024]</strong> I am visiting uOttawa [QUASAR](https://quasarlab.org/) group as a Mitacs GRI 2024 research intern. I focused on non-local games, hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/). See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for details.
-- <strong class="news-date">[May. - Aug. 2023]</strong> I join HKU [AIoT Lab](https://aiot.hku.hk/) as a HKU Summer Research Programme 2023 participant, focusing on sensor localization with quantum sensing. I am advised by Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/).
-- <strong class="news-date">[Jul. 2022]</strong> I am working at CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant on stock management with proactive resource allocation. I am advised by Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/).
+- <strong class="news-date">[Jun. 2025]</strong> I visited [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern hosted by Prof. [Penghui Yao](https://penghuiyao.info/), working on the complexity of state synthesis problems.
+- <strong class="news-date">[May–Aug. 2024]</strong> I visited the [QUASAR](https://quasarlab.org/) group at uOttawa as a Mitacs Globalink Research Intern hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/), working on non-local games. See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for more details.
+- <strong class="news-date">[May–Aug. 2023]</strong> As part of the HKU Summer Research Programme, I joined the [AIoT Lab](https://aiot.hku.hk/) and worked with Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) on sensor localization using quantum sensing.
+- <strong class="news-date">[Jul. 2022]</strong> I joined CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant under the supervision of Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), working on reactive versus proactive product upgrades in dynamic resource allocation (see the [related paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401203)).
 
 {% include_relative _includes/publications.md %}
 
