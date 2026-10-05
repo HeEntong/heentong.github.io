@@ -11,10 +11,10 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: #f8f8f8;
   padding:0px;
   font: 16.0px/1.5 Crimson Pro, serif; 
-  color:#595959;
+  color:#333333;
   font-weight:400;
   margin:0
 }

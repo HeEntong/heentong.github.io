@@ -4,6 +4,8 @@ layout: homepage
 
 I am Entong He. I am a ~~first-year~~ second-year PhD student at HKU CDS, advised by Prof. [Yuxiang Yang](https://yangyx09.github.io/) and Prof. [Chenshu Wu](https://cswu.me/). 
 
+I have been fortunate to work with many wonderful mentors and collaborators, including [Zihao Li](https://lzh479.github.io/), [Yuxiang Yang](https://yangyx09.github.io/), and [Chenshu Wu](https://cswu.me/) (and counting!).
+
 During my undergraduate years, I was very fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) (QUASAR) and Prof. [Connor Paddock](https://www.connorpaddock.page/) (U. Calgary) at uOttawa; Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU) at Nanjing University.
 
 ## Interests
@@ -12,6 +14,7 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 - <strong class="interest-label">Classical:</strong> sensor network localization.
 
 ## News
+- <strong class="news-date">[Jun. 2026]</strong> I attended the 14th [Beyond IID in Information Theory](https://www.beyondiid2026.com/) workshop (BIID 14), held in my hometown of Shenzhen.
 - <strong class="news-date">[Jun. 2025]</strong> I visited [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern hosted by Prof. [Penghui Yao](https://penghuiyao.info/), working on the complexity of state synthesis problems.
 - <strong class="news-date">[May–Aug. 2024]</strong> I visited the [QUASAR](https://quasarlab.org/) group at uOttawa as a Mitacs Globalink Research Intern hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/), working on non-local games. See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for more details.
 - <strong class="news-date">[May–Aug. 2023]</strong> As part of the HKU Summer Research Programme, I joined the [AIoT Lab](https://aiot.hku.hk/) and worked with Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) on sensor localization using quantum sensing.
