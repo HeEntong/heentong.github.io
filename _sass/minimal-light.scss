@@ -466,7 +466,7 @@ strong {
   font-weight:500;
 }
 
-.news-date, .interest-label {
+.interest-label {
   font-weight:700;
 }
 
@@ -489,6 +489,18 @@ strong {
 .academic-service .service-years {
   display: block;
   margin-top: 0.12rem;
+}
+
+@import "dated-list";
+
+@media (prefers-color-scheme: dark) {
+  .date-stack, .academic-service .service-years {
+    color: #a5a5a5;
+  }
+
+  ul.dated-list::before {
+    border-color: #444;
+  }
 }
 
 @media screen and (max-width: 480px) {

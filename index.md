@@ -14,11 +14,13 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
 - <strong class="interest-label">Classical:</strong> sensor network localization.
 
 ## News
-- <strong class="news-date">[Jun. 2026]</strong> I attended the 14th [Beyond IID in Information Theory](https://www.beyondiid2026.com/) workshop (BIID 14), held in my hometown of Shenzhen.
-- <strong class="news-date">[Jun. 2025]</strong> I visited [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern hosted by Prof. [Penghui Yao](https://penghuiyao.info/), working on the complexity of state synthesis problems.
-- <strong class="news-date">[May–Aug. 2024]</strong> I visited the [QUASAR](https://quasarlab.org/) group at uOttawa as a Mitacs Globalink Research Intern hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/), working on non-local games. See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for more details.
-- <strong class="news-date">[May–Aug. 2023]</strong> As part of the HKU Summer Research Programme, I joined the [AIoT Lab](https://aiot.hku.hk/) and worked with Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) on sensor localization using quantum sensing.
-- <strong class="news-date">[Jul. 2022]</strong> I joined CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant under the supervision of Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), working on reactive versus proactive product upgrades in dynamic resource allocation (see the [related paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401203)).
+
+- <span class="date-stack"><span class="date-year">2026</span> <span class="date-detail"><time datetime="2026-06">Jun</time></span></span> <span class="dated-content">I attended the 14th [Beyond IID in Information Theory](https://www.beyondiid2026.com/) workshop (BIID 14), held in my hometown of Shenzhen.</span>
+- <span class="date-stack"><span class="date-year">2025</span> <span class="date-detail"><time datetime="2025-06">Jun</time></span></span> <span class="dated-content">I visited [TCS @ NJU](https://tcs.nju.edu.cn/) as a summer research intern hosted by Prof. [Penghui Yao](https://penghuiyao.info/), working on the complexity of unitary synthesis.</span>
+- <span class="date-stack"><span class="date-year">2024</span> <span class="date-detail"><time datetime="2024-05">May</time>–<time datetime="2024-08">Aug</time></span></span> <span class="dated-content">I visited the [QUASAR](https://quasarlab.org/) group at uOttawa as a Mitacs Globalink Research Intern hosted by Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and Dr. [Connor Paddock](https://www.connorpaddock.page/), working on non-local games. See [here](https://quasarlab.org/news/special-quasar-seminar-2024/) for more details.</span>
+- <span class="date-stack"><span class="date-year">2023</span> <span class="date-detail"><time datetime="2023-05">May</time>–<time datetime="2023-08">Aug</time></span></span> <span class="dated-content">As part of the HKU Summer Research Programme, I joined the [AIoT Lab](https://aiot.hku.hk/) and worked with Prof. [Chenshu Wu](https://cswu.me/) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) on sensor localization using quantum sensing.</span>
+- <span class="date-stack"><span class="date-year">2022</span> <span class="date-detail"><time datetime="2022-07">Jul</time></span></span> <span class="dated-content">I joined CUHK [SEEM](https://www.se.cuhk.edu.hk/) as a research assistant under the supervision of Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), working on reactive versus proactive product upgrades in dynamic resource allocation (see the [related paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401203)).</span>
+{: .dated-list role="list"}
 
 {% include_relative _includes/publications.md %}
 
@@ -31,26 +33,10 @@ During my undergraduate years, I was very fortunate to work with Prof. [Daniel Z
   <dd>COMP3366: Quantum algorithms and computer architecture<span class="service-years">2025–26, 2026–27</span></dd>
 </dl>
 
-<!-- ## Talks
-- **[Sep. 23rd, 2026]** The shadow of reversible quantum processes. Invited talk at the Perimeter Institute seminar series. -->
+## Talks
 
-<!-- ## Coursework (representative advanced courses, all with A/A+ grades)
-- **COMP3230** Principles of operating system.
-- **COMP3252** Algorithm design and analysis (advanced subclass).
-- **COMP3314** Machine learning.
-- **COMP3356** Robotics.
-- **COMP3357** Cryptography.
-- **COMP3366** Quantum algorithm and computer architercture.
-- **COMP3516** Data Analytics of IoT.
-- **MATH3904** Introduction to optimization.
-- **MATH3911** Game theory and strategy.
-- **MATH4902** Operations research II.
-- **STAT4610** Bayesian learning.
-- **STAT7610** Advanced probability (measure-theoretic).  -->
-
-<!-- ## CV of Failure 
-Although my life has witnessed minor events of success, failure is inevitably the major theme of it. In the private discussion with my college mate Shunzhuang Huang (also a high school upperclassman, now a PhD candidate @ UChicago Booth), I realized that it is rather significant to memorize these failures so as not to be scammed by some insignificant success. Hope that this rapidly-growing document will be a kick on my backside. \
-See **[CV of Failure](assets/files/Failure_CV.pdf)** for details. -->
+- <span class="date-stack"><span class="date-year">2026</span> <span class="date-detail"><time datetime="2026-10-21">Oct 21</time></span></span> <span class="dated-content">**[Query-optimal learning of unitary channels with parallel queries](https://pirsa.org/26100082)**. Quantum Information Seminar, Perimeter Institute for Theoretical Physics.</span>
+{: .dated-list role="list"}
 
 
 <!--## Miscs

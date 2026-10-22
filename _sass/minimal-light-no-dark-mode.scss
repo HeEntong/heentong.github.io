@@ -389,7 +389,7 @@ strong {
   font-weight:500;
 }
 
-.news-date, .interest-label {
+.interest-label {
   font-weight:700;
 }
 
@@ -413,6 +413,8 @@ strong {
   display: block;
   margin-top: 0.12rem;
 }
+
+@import "dated-list";
 
 @media screen and (max-width: 480px) {
   .academic-service {
