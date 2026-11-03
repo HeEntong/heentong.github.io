@@ -1,4 +1,10 @@
 main:
+  - title: "unitaryQIP = unitaryPSPACE"
+    authors: <strong>Entong He</strong>, Fengning Ou, Mingnan Zhao
+    conference_short: arXiv
+    conference: arXiv preprint (2026)
+    link: https://arxiv.org/abs/2611.02819
+
   - title: "Query-optimal unitary channel tomography in diamond distance with parallel access"
     authors: <strong>Entong He</strong>, Zihao Li, Yuxiang Yang
     conference_short: arXiv
