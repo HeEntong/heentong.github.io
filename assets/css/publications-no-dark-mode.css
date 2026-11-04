@@ -3,6 +3,7 @@
   --publication-link-hover-color: #163957;
   --publication-text-color: #303030;
   --publication-muted-color: #333333;
+  --publication-note-color: #b3b3b3;
 }
 
 #publications.publications-heading {
@@ -66,6 +67,14 @@
 .publications .publication-authors strong {
   color: inherit;
   font-weight: 600;
+}
+
+.publications .publication-author-note {
+  color: var(--publication-note-color);
+  font-size: 0.78em;
+  font-weight: 400;
+  margin-left: 0.3em;
+  white-space: nowrap;
 }
 
 .publications .publication-venue {

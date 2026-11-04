@@ -14,7 +14,7 @@
     {% endif %}
   </div>
   {% if publication.authors %}
-  <div class="publication-authors">{{ publication.authors }}</div>
+  <div class="publication-authors">{{ publication.authors }}{% if publication.alphabetical_authors %} <small class="publication-author-note">(alphabetical order)</small>{% endif %}</div>
   {% endif %}
   {% if publication.conference %}
   <div class="publication-venue">{{ publication.conference }}</div>

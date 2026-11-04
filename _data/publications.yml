@@ -1,6 +1,7 @@
 main:
   - title: "unitaryQIP = unitaryPSPACE"
     authors: <strong>Entong He</strong>, Fengning Ou, Mingnan Zhao
+    alphabetical_authors: true
     conference_short: arXiv
     conference: arXiv preprint (2026)
     link: https://arxiv.org/abs/2611.02819
