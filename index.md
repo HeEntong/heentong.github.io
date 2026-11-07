@@ -4,7 +4,7 @@ layout: homepage
 
 I am Entong He, a ~~first-year~~ second-year PhD student at HKU CDS, advised by Prof. [Yuxiang Yang](https://yangyx09.github.io/) and Prof. [Chenshu Wu](https://cswu.me/).
 
-I have had the pleasure of working with many wonderful mentors and collaborators, including [Zihao Li](https://lzh479.github.io/), [Yuxiang Yang](https://yangyx09.github.io/), [Chenshu Wu](https://cswu.me/), Fengning Ou, Mingnan Zhao, [Noam Scully](https://noamscully.github.io/), and [Sisi Zhou](https://sisi-zhou.github.io/) (and counting!).
+I have had the pleasure of working with many wonderful mentors and collaborators, including [Zihao Li](https://lzh479.github.io/), [Yuxiang Yang](https://yangyx09.github.io/), [Chenshu Wu](https://cswu.me/), Fengning Ou, Mingnan Zhao, [Penghui Yao](https://penghuiyao.info/), [Noam Scully](https://noamscully.github.io/), and [Sisi Zhou](https://sisi-zhou.github.io/) (and counting!).
 
 During my undergraduate years, I was fortunate to work with Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/) (SEEM) at CUHK; Prof. [Chenshu Wu](https://cswu.me/) (AIoT Lab) and Prof. [Yuxiang Yang](https://yangyx09.github.io/) (QICI) at HKU; Prof. [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) (QUASAR) and Prof. [Connor Paddock](https://www.connorpaddock.page/) (now at U. Calgary) at uOttawa; and Prof. [Penghui Yao](https://penghuiyao.info/) and Mingnan Zhao (Quantum CS @ NJU) at Nanjing University.
 
